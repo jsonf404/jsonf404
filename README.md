@@ -78,16 +78,3 @@
 - 🛠️ Cross-platform Development
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jsonf404&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonf404&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=jsonf404&theme=default&hide_border=true" />
-</p>
-
----
