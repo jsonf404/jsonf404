@@ -106,26 +106,3 @@
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:jsonf404@163.com">
-    <img src="https://img.shields.io/badge/Email-jsonf404%40163.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/jsonf404">
-    <img src="https://img.shields.io/badge/GitHub-jsonf404-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Code Deeply. Think Clearly. Build Efficiently.</b>
-  <br/>
-  <i>Keep exploring the world beneath the code.</i> 🚀
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsonf404&label=Profile%20Views&color=blue&style=flat" />
-</p>
