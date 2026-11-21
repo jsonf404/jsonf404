@@ -90,19 +90,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jsonf404&theme=flat&no-frame=true&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsonf404/jsonf404/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
